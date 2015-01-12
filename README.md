@@ -11,9 +11,9 @@ Installation
 Install $project by first cloning the repository.  
 ```
 $ git clone http://github.com/meterrill/$project
-
+```
 or
-
+```
 $ git clone http://github.com/j6turner/$project
 ```
 
